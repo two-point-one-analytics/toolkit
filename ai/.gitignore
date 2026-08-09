@@ -1,0 +1,21 @@
+# This repo's contents ARE the crossing set between the personal and work
+# machines. Anything matched here must never enter it — these are credential,
+# session, or machine-local artifacts from ~/.claude.
+
+.credentials.json
+settings.local.json
+projects/
+sessions/
+session-env/
+history.jsonl
+shell-snapshots/
+file-history/
+paste-cache/
+downloads/
+backups/
+cache/
+plugins/
+ide/
+chrome/
+daemon*
+.last-*
