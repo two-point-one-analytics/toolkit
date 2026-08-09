@@ -25,7 +25,3 @@ Nothing here installs itself. Clone the repo, copy what you want into place, and
 - Markdown files use lowercase-and-dashes names, except directory overview files named `README.md` or `INDEX.md`.
 - Paths outside a repo are written `$HOME/...` rather than `~`, so they expand correctly when quoted.
 - Home-anchored paths are portable across machines, not across people. Anything shipped to someone else needs those repointed or removed.
-
-## License
-
-`ai/` is MIT — see [`ai/LICENSE`](ai/LICENSE).

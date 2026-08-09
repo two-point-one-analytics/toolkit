@@ -136,7 +136,3 @@ Agents use canonical tool names — `read`, `search`, `execute`, `web`, `edit`, 
 ## Sources
 
 [Skills](https://docs.github.com/en/copilot/how-tos/copilot-cli/customize-copilot/add-skills) · [Custom instructions](https://docs.github.com/en/copilot/how-tos/copilot-cli/customize-copilot/add-custom-instructions) · [Custom agents](https://docs.github.com/en/copilot/how-tos/copilot-cli/customize-copilot/create-custom-agents-for-cli) · [Agent configuration reference](https://docs.github.com/en/copilot/reference/custom-agents-configuration)
-
-## License
-
-MIT. See `LICENSE`.
